@@ -1,6 +1,6 @@
 # Text-editor
 
-User story
+**User story**
 
 ```md
 AS A developer
@@ -8,7 +8,7 @@ I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 ```
 
-Acceptance Criteria:
+**Acceptance Criteria:**
 
 ```md
 GIVEN a text editor web application
@@ -38,10 +38,10 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-Screen shot 
+**Screen shot **
 
 ![Screenshot 2022-07-15 213004](https://user-images.githubusercontent.com/98195209/179214973-3d8becd4-ccef-4460-b360-1ef124da0cbd.png)
 
 ![Screenshot 2022-07-15 212436](https://user-images.githubusercontent.com/98195209/179214986-1b5d8899-2188-4574-8ffc-8e5134a74b93.png)
 
-Deploy link: https://jack-text-editor.herokuapp.com/
+**Deploy link:** https://jack-text-editor.herokuapp.com/
